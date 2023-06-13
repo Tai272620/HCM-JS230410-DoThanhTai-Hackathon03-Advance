@@ -1,0 +1,31 @@
+.header-container {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+input {
+    outline: none;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    width: 170px;
+}
+
+select {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.addButton {
+    border: none;
+    background-color: #0a54d5;
+    color: #fff;
+    padding: 0px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
